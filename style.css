@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: black;
+}
+nav{
+    background-color: darkblue;
+    color: orangered;
+    padding: 25px;
+    font-size: 25px;
+}
+.h3{
+    background-color: darkblue;
+}
+h1{
+   font-size: 5rem; 
+   margin-top: 15rem;
+   line-height: 10vh;
+   font-weight: bold;
+   text-shadow: 1px 1px 10px lightblue;
+   color: whitesmoke;
+}
